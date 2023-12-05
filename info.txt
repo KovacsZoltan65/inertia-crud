@@ -1,4 +1,5 @@
 https://larainfo.com/blogs/laravel-9-inertia-vue-3-crud-tutorial-example
+https://github.com/shamyusof/laravelx-vue3-inertia-adminlte/tree/main
 
 composer create-project laravel/laravel inertia-crud
 
