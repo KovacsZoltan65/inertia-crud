@@ -1,0 +1,8 @@
+https://larainfo.com/blogs/laravel-9-inertia-vue-3-crud-tutorial-example
+
+composer create-project laravel/laravel inertia-crud
+
+php artisan breeze:install vue
+
+npm install
+npm run dev
