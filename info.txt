@@ -1,0 +1,11 @@
+https://larainfo.com/blogs/laravel-10-inertia-vue-3-crud-operation-example
+https://larainfo.com/blogs/laravel-9-inertia-vue-3-crud-tutorial-example
+
+composer create-project laravel/laravel inertia-crud
+composer require laravel/breeze --dev
+php artisan breeze:install
+php artisan breeze:install vue
+npm install
+npm run dev
+
+php artisan make:model Blog -mcr
